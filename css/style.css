@@ -47,7 +47,8 @@ body {
 	font-size: 14px;
 	color: #fff;
 	background: #333 url(../img/bg.png) 0 36px no-repeat;
-	background-size: 100%;
+	background-size: 1215px 1071px;
+	background-position: top center;
 }
 
 .content {
@@ -58,10 +59,10 @@ body {
 .header-wrap {
 	position: absolute;
 	background: url(../img/header-bg.jpg) 0 0 repeat-x;
-	width: 100%;
+	width: 1215px;
 	height: 36px;
 	top: 0;
-	left: 0;
+	left: 417px;
 }
 
 .header {
